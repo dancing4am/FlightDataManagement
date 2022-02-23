@@ -1,0 +1,1685 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/RecordsReadEventArgs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 6,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Helpers.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 1,
+                  "endLine": 28,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 216,
+                  "startColumn": 1,
+                  "endLine": 216,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 50,
+                  "endLine": 231,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 63,
+                  "endLine": 238,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 1,
+                  "endLine": 250,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 1,
+                  "endLine": 276,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 278,
+                  "startColumn": 18,
+                  "endLine": 278,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 380,
+                  "startColumn": 1,
+                  "endLine": 381,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/RecordsWrittenEventArgs.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 1,
+                  "endLine": 8,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetryDatabase.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 1,
+                  "endLine": 65,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/IController.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 1,
+                  "endLine": 57,
+                  "endColumn": 9
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Program.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 73,
+                  "endLine": 19,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/DatabaseConnectionRequest.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/DatabaseWriteRequest.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 1,
+                  "endLine": 7,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/RequestBuilder.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 81,
+                  "endLine": 20,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/RequestBuilder.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 81,
+                  "endLine": 43,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/ErrorEventArgs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 6,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/InitializationEventArgs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 6,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 199,
+                  "startColumn": 21,
+                  "endLine": 199,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/IGTView.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 15,
+                  "endLine": 10,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/IRequest.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 15,
+                  "endLine": 9,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/RecordParameters.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 23,
+                  "endLine": 10,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/RecordParameters.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/RecordParameters.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 1,
+                  "endLine": 41,
+                  "endColumn": 9
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 178,
+                  "startColumn": 1,
+                  "endLine": 178,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 249,
+                  "startColumn": 1,
+                  "endLine": 249,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 1,
+                  "endLine": 250,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/IRequestHandler.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 15,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/IController.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 15,
+                  "endLine": 11,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/IModel.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 15,
+                  "endLine": 10,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/RecordsReadEventArgs.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/ErrorEventArgs.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/InitializationEventArgs.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1170",
+          "level": "note",
+          "message": "Use read-only auto-implemented property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/ErrorEventArgs.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 43,
+                  "endLine": 11,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/RequestBuilder.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 18,
+                  "endLine": 14,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/DatabaseConnectionRequest.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 11,
+                  "endLine": 8,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "S3881",
+          "level": "warning",
+          "message": "Fix this implementation of 'IDisposable' to conform to the dispose pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/Model.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/Model.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 16
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/Model.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 21,
+                  "endLine": 35,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Provide 'protected' overridable implementation of 'Dispose(bool)' on 'Model' or mark the type as 'sealed'.",
+              "1": "'Model.Dispose()' should call 'Dispose(true)' and 'GC.SuppressFinalize(this)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'readerThreads' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 30,
+                  "endLine": 28,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/Model.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "S3881",
+          "level": "warning",
+          "message": "Fix this implementation of 'IDisposable' to conform to the dispose pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 11,
+                  "endLine": 17,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 11,
+                  "endLine": 17,
+                  "endColumn": 26
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 21,
+                  "endLine": 89,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Provide 'protected' overridable implementation of 'Dispose(bool)' on 'TelemetrySocket' or mark the type as 'sealed'.",
+              "1": "'TelemetrySocket.Dispose()' should call 'Dispose(true)' and 'GC.SuppressFinalize(this)'."
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 11,
+                  "endLine": 17,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/DatabaseReadRequest.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 11,
+                  "endLine": 7,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetryDatabase.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 19,
+                  "endLine": 20,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1169",
+          "level": "note",
+          "message": "Make field read-only.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 9,
+                  "endLine": 28,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'UseTestSchema' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetryDatabase.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 28,
+                  "endLine": 36,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/EventArguments/RecordsWrittenEventArgs.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/SocketToggleConnectionRequest.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 11,
+                  "endLine": 19,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Requests/DatabaseWriteRequest.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 11,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'unsyncedRecords' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 39,
+                  "endLine": 58,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'realtimeDataTable' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 27,
+                  "endLine": 63,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 11,
+                  "endLine": 15,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1169",
+          "level": "note",
+          "message": "Make field read-only.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 9,
+                  "endLine": 58,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1169",
+          "level": "note",
+          "message": "Make field read-only.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 9,
+                  "endLine": 63,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Program.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 21,
+                  "endLine": 12,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'connectionData'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 24,
+                  "endLine": 74,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 1,
+                  "endLine": 251,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 1,
+                  "endLine": 277,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1146",
+          "level": "note",
+          "message": "Use conditional access.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 260,
+                  "startColumn": 29,
+                  "endLine": 260,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'row'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 411,
+                  "startColumn": 21,
+                  "endLine": 411,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1214",
+          "level": "note",
+          "message": "Unnecessary interpolated string.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Controller/Controller.cs",
+                "region": {
+                  "startLine": 374,
+                  "startColumn": 35,
+                  "endLine": 374,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1643",
+          "level": "warning",
+          "message": "Use a StringBuilder instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal/Model/TelemetrySocket.cs",
+                "region": {
+                  "startLine": 197,
+                  "startColumn": 21,
+                  "endLine": 197,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "RCS1018": {
+          "id": "RCS1018",
+          "shortDescription": "Add accessibility modifiers (or vice versa).",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1018",
+          "properties": {
+            "category": "Readability",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1036": {
+          "id": "RCS1036",
+          "shortDescription": "Remove redundant empty line.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1036",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1037": {
+          "id": "RCS1037",
+          "shortDescription": "Remove trailing white-space.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1037",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1146": {
+          "id": "RCS1146",
+          "shortDescription": "Use conditional access.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1146",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1169": {
+          "id": "RCS1169",
+          "shortDescription": "Make field read-only.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1169",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1170": {
+          "id": "RCS1170",
+          "shortDescription": "Use read-only auto-implemented property.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1170",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        },
+        "RCS1214": {
+          "id": "RCS1214",
+          "shortDescription": "Unnecessary interpolated string.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1214",
+          "properties": {
+            "category": "Simplification",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1104": {
+          "id": "S1104",
+          "shortDescription": "Fields should not have public accessibility",
+          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and has three main disadvantages:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1135": {
+          "id": "S1135",
+          "shortDescription": "Track uses of \"TODO\" tags",
+          "fullDescription": "TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1135",
+          "properties": {
+            "category": "Info Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1643": {
+          "id": "S1643",
+          "shortDescription": "Strings should not be concatenated using '+' in a loop",
+          "fullDescription": "StringBuilder is more efficient than string concatenation, especially when the operator is repeated over and over as in loops.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1643",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2223": {
+          "id": "S2223",
+          "shortDescription": "Non-constant static fields should not be visible",
+          "fullDescription": "A static field that is neither constant nor read-only is not thread-safe. Correctly accessing these fields from different threads needs synchronization with locks. Improper synchronization may lead to unexpected results, thus publicly visible static fields are best suited for storing non-changing data shared by many consumers. To enforce this intent, these fields should be marked readonly or converted to constants.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2223",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3881": {
+          "id": "S3881",
+          "shortDescription": "\"IDisposable\" should be implemented correctly",
+          "fullDescription": "The IDisposable interface is a mechanism to release unmanaged resources, if not implemented correctly this could result in resource leaks or more severe bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3881",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

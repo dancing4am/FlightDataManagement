@@ -1,0 +1,328 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 1,
+                  "endLine": 84,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 188,
+                  "startColumn": 1,
+                  "endLine": 188,
+                  "endColumn": 9
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 21,
+                  "endLine": 9,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 22,
+                  "endLine": 10,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 14,
+                  "endLine": 84,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 14,
+                  "endLine": 85,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 14,
+                  "endLine": 97,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1118",
+          "level": "note",
+          "message": "Mark local variable as const.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 13,
+                  "endLine": 119,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1118",
+          "level": "note",
+          "message": "Mark local variable as const.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 13,
+                  "endLine": 126,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1118",
+          "level": "note",
+          "message": "Mark local variable as const.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 218,
+                  "startColumn": 13,
+                  "endLine": 218,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1032",
+          "level": "note",
+          "message": "Remove redundant parentheses.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 56,
+                  "endLine": 152,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission.Tests/UnitTestBase.cs",
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 147,
+                  "endLine": 152,
+                  "endColumn": 148
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "RCS1018": {
+          "id": "RCS1018",
+          "shortDescription": "Add accessibility modifiers (or vice versa).",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1018",
+          "properties": {
+            "category": "Readability",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1032": {
+          "id": "RCS1032",
+          "shortDescription": "Remove redundant parentheses.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1032",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1036": {
+          "id": "RCS1036",
+          "shortDescription": "Remove redundant empty line.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1036",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1037": {
+          "id": "RCS1037",
+          "shortDescription": "Remove trailing white-space.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1037",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1118": {
+          "id": "RCS1118",
+          "shortDescription": "Mark local variable as const.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1118",
+          "properties": {
+            "category": "General",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

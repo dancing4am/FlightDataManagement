@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal.Tests/DataAccessTests.cs",
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 1,
+                  "endLine": 161,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/GroundTerminal.Tests/DataAccessTests.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 1,
+                  "endLine": 43,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "RCS1036": {
+          "id": "RCS1036",
+          "shortDescription": "Remove redundant empty line.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1036",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

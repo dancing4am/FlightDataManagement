@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\FlightDataLibrary\FlightDataLibrary.csproj
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\AircraftTransmission.csproj
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\GroundTerminal\GroundTerminal.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\FlightDataLibrary.Tests\FlightDataLibrary.Tests.csproj
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\GroundTerminal.Tests\GroundTerminal.Tests.csproj
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission.Tests\AircraftTransmission.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

@@ -1,0 +1,10 @@
+d
+[C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\AtsManager.csutf-8e
+\C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\FileManager.csutf-8n
+eC:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\NetworkConfigManager.csutf-8d
+[C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\Packetizer.csutf-8`
+WC:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\Parser.csutf-8q
+hC:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\Properties\AssemblyInfo.csutf-8e
+\C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\TimeManager.csutf-8m
+dC:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\TransmissionManager.csutf-8–
+ŠC:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\AircraftTransmission\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8

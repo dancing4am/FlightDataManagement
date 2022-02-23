@@ -1,0 +1,7 @@
+﻿C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\GroundTerminal.Tests\DataAccessTests.cs
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\GroundTerminal.Tests\TelemetryDatabaseTests.cs
+C:\Users\msbra\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.dll
+C:\Users\msbra\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.pdb
+C:\Users\msbra\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.dll
+C:\Users\msbra\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.api.dll
+C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS\GroundTerminal.Tests\StyleCop.Cache

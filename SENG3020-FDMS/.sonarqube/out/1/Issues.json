@@ -1,0 +1,377 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/AtsManager.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 58,
+                  "endLine": 32,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/AtsManager.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 31,
+                  "endLine": 48,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/FileManager.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 22,
+                  "endLine": 39,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/FileManager.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/TimeManager.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 11,
+                  "endLine": 8,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/TransmissionManager.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 11,
+                  "endLine": 7,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/NetworkConfigManager.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/Packetizer.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/Parser.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 11,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Internal"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1018",
+          "level": "note",
+          "message": "Add accessibility modifiers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/AtsManager.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 21,
+                  "endLine": 30,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "Accessibility": "Private"
+            }
+          }
+        },
+        {
+          "ruleId": "RCS1163",
+          "level": "note",
+          "message": "Unused parameter 'args'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/AtsManager.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/TransmissionManager.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 1,
+                  "endLine": 33,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/NetworkConfigManager.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 1,
+                  "endLine": 33,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/AircraftTransmission/AtsManager.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 1,
+                  "endLine": 154,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "RCS1018": {
+          "id": "RCS1018",
+          "shortDescription": "Add accessibility modifiers (or vice versa).",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1018",
+          "properties": {
+            "category": "Readability",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1036": {
+          "id": "RCS1036",
+          "shortDescription": "Remove redundant empty line.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1036",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1037": {
+          "id": "RCS1037",
+          "shortDescription": "Remove trailing white-space.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1037",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1163": {
+          "id": "RCS1163",
+          "shortDescription": "Unused parameter.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1163",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

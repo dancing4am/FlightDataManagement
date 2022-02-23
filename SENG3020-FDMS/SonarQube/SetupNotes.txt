@@ -1,0 +1,19 @@
+1. Install SonarQube as directed in word document Laura provided
+	a. Choose .NET Framework build scanner to download 
+2. Install a new version of JAVA. (You may need to uninstall other versions)
+3. Add the folder which contains "\bin\Java.exe" to environment variables as "JAVA_HOME"
+	- Restart the computer
+4. Start the following batch C:\Program Files\SonarQube\bin\windows-x86-64\StartSonar.bat
+5. Open http://localhost:9000/ in a browser
+6. Set a username and password (initial is admin/admin) 
+7. Create a project, and give a name to the token too
+
+"https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-msbuild/
+
+	"Classic" .NET Framework Invocation
+	The first version is based on the "classic" .NET Framework. To use it, execute the following commands from the root folder of your project:
+"
+8. cd C:\Users\msbra\OneDrive\Code\SENG3020-FDMS\SENG3020-FDMS
+	"C:\Program Files\SonarQube\.NET Framework\sonar-scanner-msbuild-5.4.0.40033-net46\SonarScanner.MSBuild.exe" begin /k:"FDMS" /d:sonar.host.url="http://localhost:9000" /d:sonar.login="f6f1ed6babeb81146ed8429f6a90d3df3b5e7b54"
+	"c:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe" /t:Rebuild
+	"C:\Program Files\SonarQube\.NET Framework\sonar-scanner-msbuild-5.4.0.40033-net46\SonarScanner.MSBuild.exe" end /d:sonar.login="f6f1ed6babeb81146ed8429f6a90d3df3b5e7b54"

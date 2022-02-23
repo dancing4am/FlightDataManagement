@@ -1,0 +1,922 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21403.6 (ae1fff34)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/ChecksumCalculator.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 14,
+                  "endLine": 65,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TimeConverter.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 1,
+                  "endLine": 23,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 81,
+                  "endLine": 10,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 9
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 64,
+                  "endLine": 29,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1037",
+          "level": "note",
+          "message": "Remove trailing white-space.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 1,
+                  "endLine": 31,
+                  "endColumn": 9
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1187",
+          "level": "note",
+          "message": "Use constant instead of field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 9,
+                  "endLine": 10,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1187",
+          "level": "note",
+          "message": "Use constant instead of field.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 9,
+                  "endLine": 99,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 23,
+                  "endLine": 17,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 23,
+                  "endLine": 48,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 23,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 21,
+                  "endLine": 49,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 23,
+                  "endLine": 40,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 23,
+                  "endLine": 45,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 24,
+                  "endLine": 50,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 23,
+                  "endLine": 50,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 23,
+                  "endLine": 55,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 23,
+                  "endLine": 60,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 23,
+                  "endLine": 23,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 23,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 23,
+                  "endLine": 26,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 23,
+                  "endLine": 27,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/TelemetryRecord.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 21,
+                  "endLine": 14,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 20,
+                  "endLine": 39,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'object'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 27,
+                  "endLine": 79,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1168",
+          "level": "warning",
+          "message": "Return an empty collection instead of null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 17,
+                  "endLine": 63,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1206",
+          "level": "note",
+          "message": "Use conditional access instead of conditional expression.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 20,
+                  "endLine": 117,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1206",
+          "level": "note",
+          "message": "Use conditional access instead of conditional expression.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 20,
+                  "endLine": 24,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5773",
+          "level": "warning",
+          "message": "Restrict types of objects allowed to be deserialized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/FlightDataLibrary/DataPacket.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 42,
+                  "endLine": 79,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "RCS1036",
+          "level": "note",
+          "message": "Remove redundant empty line.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/msbra/OneDrive/Code/SENG3020-FDMS/SENG3020-FDMS/SimpleLogger/Log.cs",
+                "region": {
+                  "startLine": 162,
+                  "startColumn": 1,
+                  "endLine": 163,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "RCS1036": {
+          "id": "RCS1036",
+          "shortDescription": "Remove redundant empty line.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1036",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1037": {
+          "id": "RCS1037",
+          "shortDescription": "Remove trailing white-space.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1037",
+          "properties": {
+            "category": "Redundancy",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1187": {
+          "id": "RCS1187",
+          "shortDescription": "Use constant instead of field.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1187",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true
+          }
+        },
+        "RCS1206": {
+          "id": "RCS1206",
+          "shortDescription": "Use conditional access instead of conditional expression.",
+          "defaultLevel": "note",
+          "helpUri": "http://pihrt.net/roslynator/analyzer?id=RCS1206",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1104": {
+          "id": "S1104",
+          "shortDescription": "Fields should not have public accessibility",
+          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and has three main disadvantages:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1168": {
+          "id": "S1168",
+          "shortDescription": "Empty arrays and collections should be returned instead of null",
+          "fullDescription": "Returning null instead of an actual array, collection or map forces callers of the method to explicitly test for nullity, making them more complex and less readable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1168",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Unnecessary casting expressions make the code harder to read and understand.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1905",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S5773": {
+          "id": "S5773",
+          "shortDescription": "Types allowed to be deserialized should be restricted",
+          "fullDescription": "During the deserialization process, the state of an object will be reconstructed from the serialized data stream which can contain dangerous operations.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5773",
+          "properties": {
+            "category": "Major Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
